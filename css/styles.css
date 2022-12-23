@@ -349,8 +349,9 @@ img {
   background: var(--first-btn-color);
   color: var(--accent-color);
   cursor: pointer;
-  border: 1px solid --desc-color;
+  border: 1px solid #e7e9fc;
   border-radius: 4px;
+
   padding-top: 12px;
   padding-bottom: 12px;
   padding-left: 24px;
