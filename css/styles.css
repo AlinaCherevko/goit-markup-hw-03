@@ -47,7 +47,7 @@ img {
 
 /* header */
 .site-header {
-  border-bottom: 1px solid #e7e9fc;
+  border-bottom: 1px solid --desc-color;
 }
 .wrap-header {
   display: flex;
@@ -349,7 +349,7 @@ img {
   background: var(--first-btn-color);
   color: var(--accent-color);
   cursor: pointer;
-  border: 1px solid #e7e9fc;
+  border: 1px solid --desc-color;
   border-radius: 4px;
   padding-top: 12px;
   padding-bottom: 12px;
